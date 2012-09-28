@@ -1,0 +1,21 @@
+{
+  "name": "prime_wars",
+  "version": "0.0.0",
+  "description": "Yapc Asia Tokyo 2012 codeIQ challenge",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TokyoIncidents/prime_wars.git"
+  },
+  "engines": {
+    "node": "~0.8.11"
+  },
+  "private": true,
+  "author": "TokyoIncidents",
+  "license": "BSD",
+  "gypfile": true
+}
